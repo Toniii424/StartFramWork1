@@ -1,0 +1,13 @@
+.nav{
+  background-color: #2C3E50;
+  transition: padding 0.3s ease;
+}
+
+
+.styleNav{
+  display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+}
+

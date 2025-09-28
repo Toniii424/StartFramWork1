@@ -1,0 +1,11 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  background-color: #1abc9c !important;
+  color: #fff !important;
+  border-radius: 5px;
+}
+.line {
+  width: 60px;
+  height: 4px;
+  background-color: white;
+  border-radius: 2px;
+}
